@@ -357,7 +357,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "63ee621d562864917211b2b1c119f9ff061f5b45d906283b638e4ecbf52a855f"
+content-hash = "4aefdd19fd43ebe11e132ebe92fbe73ad99b559825fc5fc5f0a3d4b756f88b1b"
 
 [metadata.files]
 apache-bookkeeper-client = [

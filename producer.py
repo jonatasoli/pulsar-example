@@ -1,6 +1,6 @@
 import pulsar
 
-client = pulsar.Client('pulsar://localhost:6650')
+client = pulsar.Client('pulsar://infra_pulsar_1:6650')
 
 producer = client.create_producer('my-topic')
 
